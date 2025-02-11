@@ -4,6 +4,7 @@ Repositório criado como sugestão de modelagem do problema Jogo dos Ponteiros, 
 O problema foi apresentado na disciplina de Inteligência Artificial, ministrada pelo Prof. Dr. Carlos Alberto Estombelo Montesco.
 ## Descrição do problema
 O objetivo do jogo é fazer todas as setas de um tabuleiro 2x2 apontarem para a mesma direção, como ilustrado abaixo.
+
 ![tabuleiro 2x2 com quatro setas brancas apontadas para cima](image.png)
 ### Funcionamento interno
 Dentro do tabuleiro, existem quatro blocos, cada um com seu ponteiro.
